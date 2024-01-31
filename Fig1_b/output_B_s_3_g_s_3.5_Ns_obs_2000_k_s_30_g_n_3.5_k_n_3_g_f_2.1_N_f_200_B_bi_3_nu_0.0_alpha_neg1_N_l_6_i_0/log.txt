@@ -1,0 +1,184 @@
+Playing with Mu to get a unipartite network with a desired average degree....!
+=====================================
+
+ iteration # 0
+ Mu is : 0.013783
+ The average degree of nodes is: 31.072000 
+~~~~~~~~~~~~~
+ iteration # 1
+ Mu is : 0.013714
+ The average degree of nodes is: 30.983000 
+~~~~~~~~~~~~~
+ iteration # 2
+ Mu is : 0.013646
+ The average degree of nodes is: 30.618000 
+~~~~~~~~~~~~~
+ iteration # 3
+ Mu is : 0.013578
+ The average degree of nodes is: 30.551000 
+~~~~~~~~~~~~~
+ iteration # 4
+ Mu is : 0.013510
+ The average degree of nodes is: 30.410000 
+~~~~~~~~~~~~~
+ iteration # 5
+ Mu is : 0.013442
+ The average degree of nodes is: 30.244000 
+~~~~~~~~~~~~~
+ iteration # 6
+ Mu is : 0.013375
+ The average degree of nodes is: 30.094000 
+~~~~~~~~~~~~~
+ Final mu = 0.013375
+==============The properties of the generated unipartite networks==============
+The number of nodes with degree greater than zero is: 2000
+The number of Edges is: 30094
+The average degree of nodes is: 30.094000
+Center number 0 is located at: 1.800356
+Center number 1 is located at: 5.284336
+Center number 2 is located at: 2.539233
+Center number 3 is located at: 0.258692
+Center number 4 is located at: 0.554982
+Center number 5 is located at: 5.992929
+
+=========================Bipartite network=========================
+The number of nodes of Type1 is: 2000
+The desired average degree of nodes of Type1 is: 3.000000
+
+The number of nodes of Type2 is: 200 
+Their desired average degree of nodes of Type2 is: 30.000000
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Playing with Mu to get a Bipartite network with a desired average degree....!
+
+ iteration # 0
+ Mu is : 0.137832
+ The average degree of nodes of Type 1 is: 2.346000 
+ The average degree of nodes of Type 2 is: 23.460000 
+~~~~~~~~~~~
+ iteration # 1
+ Mu is : 0.139211
+ The average degree of nodes of Type 1 is: 2.361500 
+ The average degree of nodes of Type 2 is: 23.615000 
+~~~~~~~~~~~
+ iteration # 2
+ Mu is : 0.140603
+ The average degree of nodes of Type 1 is: 2.425500 
+ The average degree of nodes of Type 2 is: 24.255000 
+~~~~~~~~~~~
+ iteration # 3
+ Mu is : 0.142009
+ The average degree of nodes of Type 1 is: 2.401000 
+ The average degree of nodes of Type 2 is: 24.010000 
+~~~~~~~~~~~
+ iteration # 4
+ Mu is : 0.143429
+ The average degree of nodes of Type 1 is: 2.464500 
+ The average degree of nodes of Type 2 is: 24.645000 
+~~~~~~~~~~~
+ iteration # 5
+ Mu is : 0.144863
+ The average degree of nodes of Type 1 is: 2.503000 
+ The average degree of nodes of Type 2 is: 25.030000 
+~~~~~~~~~~~
+ iteration # 6
+ Mu is : 0.146312
+ The average degree of nodes of Type 1 is: 2.501500 
+ The average degree of nodes of Type 2 is: 25.015000 
+~~~~~~~~~~~
+ iteration # 7
+ Mu is : 0.147775
+ The average degree of nodes of Type 1 is: 2.529000 
+ The average degree of nodes of Type 2 is: 25.290000 
+~~~~~~~~~~~
+ iteration # 8
+ Mu is : 0.149253
+ The average degree of nodes of Type 1 is: 2.540000 
+ The average degree of nodes of Type 2 is: 25.400000 
+~~~~~~~~~~~
+ iteration # 9
+ Mu is : 0.150745
+ The average degree of nodes of Type 1 is: 2.601000 
+ The average degree of nodes of Type 2 is: 26.010000 
+~~~~~~~~~~~
+ iteration # 10
+ Mu is : 0.152253
+ The average degree of nodes of Type 1 is: 2.608500 
+ The average degree of nodes of Type 2 is: 26.085000 
+~~~~~~~~~~~
+ iteration # 11
+ Mu is : 0.153775
+ The average degree of nodes of Type 1 is: 2.621000 
+ The average degree of nodes of Type 2 is: 26.210000 
+~~~~~~~~~~~
+ iteration # 12
+ Mu is : 0.155313
+ The average degree of nodes of Type 1 is: 2.628000 
+ The average degree of nodes of Type 2 is: 26.280000 
+~~~~~~~~~~~
+ iteration # 13
+ Mu is : 0.156866
+ The average degree of nodes of Type 1 is: 2.698500 
+ The average degree of nodes of Type 2 is: 26.985000 
+~~~~~~~~~~~
+ iteration # 14
+ Mu is : 0.158435
+ The average degree of nodes of Type 1 is: 2.694500 
+ The average degree of nodes of Type 2 is: 26.945000 
+~~~~~~~~~~~
+ iteration # 15
+ Mu is : 0.160019
+ The average degree of nodes of Type 1 is: 2.695000 
+ The average degree of nodes of Type 2 is: 26.950000 
+~~~~~~~~~~~
+ iteration # 16
+ Mu is : 0.161619
+ The average degree of nodes of Type 1 is: 2.759000 
+ The average degree of nodes of Type 2 is: 27.590000 
+~~~~~~~~~~~
+ iteration # 17
+ Mu is : 0.163235
+ The average degree of nodes of Type 1 is: 2.765000 
+ The average degree of nodes of Type 2 is: 27.650000 
+~~~~~~~~~~~
+ iteration # 18
+ Mu is : 0.164868
+ The average degree of nodes of Type 1 is: 2.834500 
+ The average degree of nodes of Type 2 is: 28.345000 
+~~~~~~~~~~~
+ iteration # 19
+ Mu is : 0.166516
+ The average degree of nodes of Type 1 is: 2.823000 
+ The average degree of nodes of Type 2 is: 28.230000 
+~~~~~~~~~~~
+ iteration # 20
+ Mu is : 0.168182
+ The average degree of nodes of Type 1 is: 2.857500 
+ The average degree of nodes of Type 2 is: 28.575000 
+~~~~~~~~~~~
+ iteration # 21
+ Mu is : 0.169863
+ The average degree of nodes of Type 1 is: 2.903500 
+ The average degree of nodes of Type 2 is: 29.035000 
+~~~~~~~~~~~
+ iteration # 22
+ Mu is : 0.171562
+ The average degree of nodes of Type 1 is: 2.897000 
+ The average degree of nodes of Type 2 is: 28.970000 
+~~~~~~~~~~~
+ iteration # 23
+ Mu is : 0.173278
+ The average degree of nodes of Type 1 is: 2.969500 
+ The average degree of nodes of Type 2 is: 29.695000 
+~~~~~~~~~~~
+ iteration # 24
+ Mu is : 0.175010
+ The average degree of nodes of Type 1 is: 3.007500 
+ The average degree of nodes of Type 2 is: 30.075000 
+~~~~~~~~~~~
+ Final mu_bi = 0.175010
+=========The properties of the generated unipartite networks=============
+The number of nodes of Type 1 with degree greater than zero is: 1839
+The number of nodes of Type 2 with degree greater than zero is: 200
+The number of Edges is: 6015
+The average degree of nodes of Type 1 is: 3.270799 
+The average degree of nodes of Type 2 is: 30.075000 
