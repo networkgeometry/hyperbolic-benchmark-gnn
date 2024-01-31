@@ -1,7 +1,6 @@
-# (todo: change name)
+# Hyperbolic Benchmarking Unveils Network Topology-Feature Relationship in GNN Performance
 
-(todo: a short description)
-
+A comprehensive benchmarking framework for graph machine learning, focusing on the performance of GNNs across varied network structures.
 
 ![](images/fig1.jpg)
 <p align="center">
