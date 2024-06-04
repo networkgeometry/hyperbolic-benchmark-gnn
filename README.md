@@ -7,18 +7,9 @@ A comprehensive benchmarking framework for graph machine learning, focusing on t
 <b>(a)</b> Representation of a model-based framework integrating $\mathbb{S}^1$ and bipartite-$\mathbb{S}^1$ models to generate rich graph-structured data. <b>(b)</b> Hyperbolic representation of a synthetic network with 2000 nodes represented as circles, where colors indicate their labels, and 200 features depicted as purple rounded squares. The size of the symbols is proportional to the logarithms of the degrees of nodes and features.
 </p>
 
-
-## Datasets
-
-You can access the generated graph data in Zenodo (todo: add a link to NC and LP dataset)
-
-- node classification: 
-- link prediction:   
-
-
 ## Running the benchmark
 
-1. Generate synthetic networks or download from Zenodo
+1. Generate synthetic networks or download from Zenodo (https://zenodo.org/records/11473505)
 
     ```bash
     cd src/
