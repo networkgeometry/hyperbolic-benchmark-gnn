@@ -45,5 +45,12 @@ You can measure the properties of your graph data using `notebooks/extract-param
 If you find our benchmark or data useful, please cite our paper:
 
 ```
-(todo: add a bib file)
+@misc{aliakbarisani2024hyperbolic,
+      title={Hyperbolic Benchmarking Unveils Network Topology-Feature Relationship in GNN Performance}, 
+      author={Roya Aliakbarisani and Robert Jankowski and M. Ángeles Serrano and Marián Boguñá},
+      year={2024},
+      eprint={2406.02772},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
 ```
