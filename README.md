@@ -40,6 +40,11 @@ A comprehensive benchmarking framework for graph machine learning, focusing on t
 You can measure the properties of your graph data using `notebooks/extract-parameters-from-real-networks.ipynb`. For $\beta$ inference please refer to [Mercator](https://github.com/networkgeometry/mercator) or [D-Mercator](https://github.com/networkgeometry/d-mercator). These libraries are model-based embedding tools to map a network into (multidimensional) hyperbolic spaces.
 
 
+## PyTorch Geometric interface
+
+If you want to generate synthetic networks in the PyTorch Geometric library, go to [hypnf.py](pytorch_geometric_example/hypnf.py) file, where we provide a loader for the HypNF model. For usage, please refer to the [tutorial](pytorch_geometric_example/tutorial.ipynb).
+
+
 ## Citation
 
 If you find our benchmark or data useful, please cite our paper:
