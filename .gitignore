@@ -1,2 +1,6 @@
 nohup.out
 notebooks/.ipynb_checkpoints
+venv/
+pytorch_geometric_example/__pycache__
+pytorch_geometric_example/.ipynb_checkpoints
+
