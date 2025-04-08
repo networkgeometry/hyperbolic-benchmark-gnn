@@ -47,7 +47,8 @@ class GraphConvolution(Module):
             support = torch.spmm(adj, hidden)
         else:
             support = torch.mm(adj, hidden)
-        output = self.act(support), adj
+        activation = self.act(support)
+        output = activation.clone(), adj
         return output
 
     def extra_repr(self):
